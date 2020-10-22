@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyEnterprise.CMD", "EnergyEnterprise.CMD\EnergyEnterprise.CMD.csproj", "{87888F50-EDA0-40BF-86F7-31EC258285FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyEnterprise.BL", "EnergyEnterprise.BL\EnergyEnterprise.BL.csproj", "{F495C526-8235-4D28-AC48-663CEA1A03DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87888F50-EDA0-40BF-86F7-31EC258285FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87888F50-EDA0-40BF-86F7-31EC258285FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87888F50-EDA0-40BF-86F7-31EC258285FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87888F50-EDA0-40BF-86F7-31EC258285FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F495C526-8235-4D28-AC48-663CEA1A03DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F495C526-8235-4D28-AC48-663CEA1A03DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F495C526-8235-4D28-AC48-663CEA1A03DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F495C526-8235-4D28-AC48-663CEA1A03DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AF69F03-276B-449C-9460-571CDDBC88EC}
+	EndGlobalSection
+EndGlobal
